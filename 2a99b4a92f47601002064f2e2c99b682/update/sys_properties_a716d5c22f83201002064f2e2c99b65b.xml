@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Test Prop</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_411792_iplookup.my.new.prop</name>
+        <read_roles/>
+        <suffix>my.new.prop</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 17:53:51</sys_created_on>
+        <sys_id>a716d5c22f83201002064f2e2c99b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_411792_iplookup.my.new.prop</sys_name>
+        <sys_package display_value="IPLookup" source="x_411792_iplookup">2a99b4a92f47601002064f2e2c99b682</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">2a99b4a92f47601002064f2e2c99b682</sys_scope>
+        <sys_update_name>sys_properties_a716d5c22f83201002064f2e2c99b65b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 17:53:51</sys_updated_on>
+        <type>string</type>
+        <value>I'm just testing this</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=a716d5c22f83201002064f2e2c99b65b"/>
+</record_update>
